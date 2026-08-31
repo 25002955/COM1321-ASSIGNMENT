@@ -5,7 +5,7 @@
 
 /**
  *
- * @author THANDO CHAUKE
+ * @author 25002955
  */
 public class Main {
     public static void main(String[] args) {
