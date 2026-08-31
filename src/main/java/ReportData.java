@@ -5,7 +5,7 @@
 
 /**
  *
- * @author THANDO CHAUKE
+ * @author 25002955
  */
 public class ReportData {
     private String productCode;
