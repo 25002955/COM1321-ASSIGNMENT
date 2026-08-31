@@ -5,7 +5,7 @@
 
 /**
  *
- * @author THANDO CHAUKE
+ * @author 25002955
  */
 import java.util.ArrayList;
 import java.util.Scanner;
@@ -51,7 +51,7 @@ public class Products {
      public void setSupplier(String supplier) { this.supplier = supplier; }
      
     public void displayMenu(){
-        System.out.println("BRIGHT FUTURE TECHNOLOGIES APPLICATION");
+        System.out.println("Extreme IT Products");
         System.out.println("Enter (1) to launch menu or any other key to exit");
         String choice = scanner.nextLine();
         
